@@ -1,4 +1,4 @@
 # Keeper-React-Assignment
 Created with CodeSandbox
 
-Keeper Assignment for lesson 434
+Keeper Assignment for Web Dev course lesson 434
